@@ -1,0 +1,16 @@
+PODS:
+  - Repro (4.1.0)
+
+DEPENDENCIES:
+  - Repro
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Repro
+
+SPEC CHECKSUMS:
+  Repro: d7d5a1d2c592ad11657f0b38e562d6e90c7b890a
+
+PODFILE CHECKSUM: cb912400dc5c82af8d52c4dc4929587fe06835ce
+
+COCOAPODS: 1.6.1
